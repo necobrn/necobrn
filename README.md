@@ -1,4 +1,4 @@
-> Hello! 👋 I'm Matheus.
+> Hello! I'm Matheus.
 > 
 > Currently pursuing my degree in System Analysis and Development
 
